@@ -1,2 +1,4 @@
 # github_para_programadores
-Prueba
+
+Reporsitorio para aprender usar github para actuarios
+
